@@ -1,7 +1,7 @@
 # Setup
 title:        Choonguri's Blog
 tagline:      Just Do It!
-baseurl:      ""
+baseurl:      "/blog"
 paginate:     5
 
 # About/contact
