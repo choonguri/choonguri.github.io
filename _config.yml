@@ -2,7 +2,7 @@
 title:        Choonguri's Blog
 tagline:      Just Do It!
 baseurl:      ""
-paginate:     1
+paginate:     5
 
 # About/contact
 author:
