@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My First Content
+comments: true
 ---
 
 ```java

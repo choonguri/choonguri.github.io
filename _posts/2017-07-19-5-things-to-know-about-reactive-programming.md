@@ -1,6 +1,7 @@
 ---
 layout: post
 title: (발번역)Reactive Programming에 대해 알아야할 5가지
+comments: true
 ---
 
 _원문 : [https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming/](https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming/)_
