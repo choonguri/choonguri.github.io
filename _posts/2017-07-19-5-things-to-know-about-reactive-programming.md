@@ -94,7 +94,7 @@ manager.getCampaignById(id)
 - **Responsive** : 납득할만한 시간내에 요청을 처리해야 한다.
 - **Resilient** : 오류 상태에서도 responsive 해야 한다.
 - **Elastic** : 어떠한 로드 상황에서도 responsive 해야 한다.(스케일업, 스케일다운 등)
-- **Message** driven : Reactive System 컴퍼넌트들은 비동기 메시지 전송으로 상호 작용한다.
+- **Message driven** : Reactive System 컴퍼넌트들은 비동기 메시지 전송으로 상호 작용한다.
  
 Reactive System의 기본 원리들이 간단함에도 불구하고, 그중에 하나를 만드는 것은 어렵다. 일반적으로 각 노드는 비동기 Non-blocking 개발 모델, task-based 동시성 모델을 수용해야 하며
 non-blocking I/O를 사용해야만 한다. 이점들을 처음에 생각하지 않는다면 빠르게 스파게티 접시가 될것이다.
