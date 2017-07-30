@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (발번역)딥러닝의 미래
+title: (발번역) 딥러닝의 미래
 comments: true
 ---
 

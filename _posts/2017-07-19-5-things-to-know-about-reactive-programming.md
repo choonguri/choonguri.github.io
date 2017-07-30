@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (발번역)Reactive Programming에 대해 알아야할 5가지
+title: (발번역) Reactive Programming에 대해 알아야할 5가지
 comments: true
 ---
 

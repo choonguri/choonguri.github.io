@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (발번역)딥러닝의 한계들
+title: (발번역) 딥러닝의 한계들
 comments: true
 ---
 
