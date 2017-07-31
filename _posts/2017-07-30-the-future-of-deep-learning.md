@@ -6,7 +6,7 @@ comments: true
 
 > *원문 : [https://blog.keras.io/the-future-of-deep-learning.html](https://blog.keras.io/the-future-of-deep-learning.html)*
 > 
-> *저자인 [@fchollet](https://twitter.com/fchollet)의 허락을 받고 번역했음을 알려드립니다.*
+> *저자인 [François Chollet‏](https://twitter.com/fchollet)의 허락을 받고 번역했음을 알려드립니다.*
 
 이 포스트는 나(저자)의 [책](Deep Learning with Python:https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) 챕터9의 섹션3를 각색하였다.
 
