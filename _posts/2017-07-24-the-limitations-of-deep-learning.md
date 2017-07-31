@@ -6,7 +6,7 @@ comments: true
 
 > _원문 : [https://blog.keras.io/the-limitations-of-deep-learning.html](https://blog.keras.io/the-limitations-of-deep-learning.html)_
 > 
-> 저자인 *[@fchollet](https://twitter.com/fchollet)*의 허락을 받고 번역했음을 알려드립니다.
+> *저자인 [@fchollet](https://twitter.com/fchollet)의 허락을 받고 번역했음을 알려드립니다.*
 
 *이 글은 [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) Chapter 9의 Section 2의 내용을 각색하였다. 딥러닝의 현재 한계와 미래에 대한 2개의 시리즈 글 중에 하나이다.*
 
