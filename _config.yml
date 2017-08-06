@@ -8,6 +8,10 @@ paginate:     5
 author:
   name:       Choonguri
   url:        http://choonguri.github.io/ 
+  email: choonguri@gmail.com
+  github: http://github.com/choonguri
+  twitter: https://twitter.com/like_sku
+  facebook : https://www.facebook.com/choonguri
 
 # Gems
 gems:
@@ -20,3 +24,4 @@ disqus_shortname: choonguri
 
 google-analytics:
   id: "UA-90743163-2"
+
