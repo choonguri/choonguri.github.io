@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # *About this blog*
-이 블로그는 제가 관심 있어하고 유익하다고 생각되는 영문 블로그를 번역하기 위해 운영하고 있습니다. 영문 블로그를 번역하는 이유는 개인적인 영어 공부를 위함입니다. 영어 실력이 좋지 않아 오번역 혹은 해석하기 애매한 내용이 있을 수 있으니 이 부분은 양해 부탁드립니다. 그리고 원작자의 허락을 받고 번역 및 공개를 하고 있으며, 허락 요청 메일을 보냈으나 아직 회신이 없는 경우는 분명한 출처를 밝히고 글을 올리고 있습니다. 혹시 문제가 되는 글이 있으면 언제든 [연락](mailto://choonguri@gmail.com) 주세요. 바로 조치를 하도록 하겠습니다.
+이 블로그는 제가 관심 있어하고 유익하다고 생각되는 영문 블로그를 번역하기 위해 운영하고 있습니다. 영문 블로그를 번역하는 이유는 개인적인 공부를 위함입니다. 영어 실력이 좋지 않아 오번역 혹은 해석하기 애매한 내용이 있을 수 있으니 이 부분은 양해 부탁드립니다. 그리고 원작자의 허락을 받고 번역 및 공개를 하고 있으며, 허락 요청 메일을 보냈으나 아직 회신이 없는 경우는 분명한 출처를 밝히고 글을 올리고 있습니다. 혹시 문제가 되는 글이 있으면 언제든 [연락](mailto://choonguri@gmail.com) 주세요. 바로 조치를 하도록 하겠습니다.
 
 This blog operates to translate English blogs that I think is interesting and informative. The reason why I translate English blog is for private English study. I am not good at my English, so there may be wrong translation or ambiguous interpretation. And I have the permission of the original author to translate and post, I sent an email requesting permission, but if I do not get the answers yet, I am posting the source clearly. Please [contact me](mailto://choonguri@gmail.com) if there have any problems with my blog postings. I will take action immediately.
 
